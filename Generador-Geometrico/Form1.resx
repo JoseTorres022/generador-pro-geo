@@ -117,29 +117,253 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>GenProGeo</value>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="LB1_PrimerNumero.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="LB1_PrimerNumero.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>1280, 720</value>
+  <data name="LB1_PrimerNumero.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 76</value>
   </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
+  <data name="LB1_PrimerNumero.Size" type="System.Drawing.Size, System.Drawing">
+    <value>342, 55</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Generador de Progreción Geométrica</value>
+  <data name="LB1_PrimerNumero.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>800, 450</value>
+  <data name="LB1_PrimerNumero.Text" xml:space="preserve">
+    <value>Primer numero</value>
   </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;LB1_PrimerNumero.Name" xml:space="preserve">
+    <value>LB1_PrimerNumero</value>
+  </data>
+  <data name="&gt;&gt;LB1_PrimerNumero.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LB1_PrimerNumero.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LB1_PrimerNumero.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="LB2_RadioComun.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LB2_RadioComun.Location" type="System.Drawing.Point, System.Drawing">
+    <value>53, 198</value>
+  </data>
+  <data name="LB2_RadioComun.Size" type="System.Drawing.Size, System.Drawing">
+    <value>319, 55</value>
+  </data>
+  <data name="LB2_RadioComun.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="LB2_RadioComun.Text" xml:space="preserve">
+    <value>Radio Comun</value>
+  </data>
+  <data name="&gt;&gt;LB2_RadioComun.Name" xml:space="preserve">
+    <value>LB2_RadioComun</value>
+  </data>
+  <data name="&gt;&gt;LB2_RadioComun.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LB2_RadioComun.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LB2_RadioComun.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="LB3_NoTerminos.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LB3_NoTerminos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 366</value>
+  </data>
+  <data name="LB3_NoTerminos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>363, 55</value>
+  </data>
+  <data name="LB3_NoTerminos.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="LB3_NoTerminos.Text" xml:space="preserve">
+    <value>No. de terminos</value>
+  </data>
+  <data name="&gt;&gt;LB3_NoTerminos.Name" xml:space="preserve">
+    <value>LB3_NoTerminos</value>
+  </data>
+  <data name="&gt;&gt;LB3_NoTerminos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LB3_NoTerminos.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LB3_NoTerminos.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="TB1_PrimerNumero.Location" type="System.Drawing.Point, System.Drawing">
+    <value>378, 73</value>
+  </data>
+  <data name="TB1_PrimerNumero.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 62</value>
+  </data>
+  <data name="TB1_PrimerNumero.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;TB1_PrimerNumero.Name" xml:space="preserve">
+    <value>TB1_PrimerNumero</value>
+  </data>
+  <data name="&gt;&gt;TB1_PrimerNumero.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TB1_PrimerNumero.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TB1_PrimerNumero.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="TB_RadioComun.Location" type="System.Drawing.Point, System.Drawing">
+    <value>378, 195</value>
+  </data>
+  <data name="TB_RadioComun.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 62</value>
+  </data>
+  <data name="TB_RadioComun.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;TB_RadioComun.Name" xml:space="preserve">
+    <value>TB_RadioComun</value>
+  </data>
+  <data name="&gt;&gt;TB_RadioComun.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TB_RadioComun.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TB_RadioComun.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="TB3_NoTerminos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>378, 363</value>
+  </data>
+  <data name="TB3_NoTerminos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 62</value>
+  </data>
+  <data name="TB3_NoTerminos.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;TB3_NoTerminos.Name" xml:space="preserve">
+    <value>TB3_NoTerminos</value>
+  </data>
+  <data name="&gt;&gt;TB3_NoTerminos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TB3_NoTerminos.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TB3_NoTerminos.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="BT_CalcDatos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 519</value>
+  </data>
+  <data name="BT_CalcDatos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>509, 90</value>
+  </data>
+  <data name="BT_CalcDatos.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="BT_CalcDatos.Text" xml:space="preserve">
+    <value>CALCULAR DATOS</value>
+  </data>
+  <data name="&gt;&gt;BT_CalcDatos.Name" xml:space="preserve">
+    <value>BT_CalcDatos</value>
+  </data>
+  <data name="&gt;&gt;BT_CalcDatos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BT_CalcDatos.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BT_CalcDatos.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="LBOX1_VistaGenerada.ItemHeight" type="System.Int32, mscorlib">
+    <value>55</value>
+  </data>
+  <data name="LBOX1_VistaGenerada.Location" type="System.Drawing.Point, System.Drawing">
+    <value>540, 55</value>
+  </data>
+  <data name="LBOX1_VistaGenerada.Size" type="System.Drawing.Size, System.Drawing">
+    <value>712, 554</value>
+  </data>
+  <data name="LBOX1_VistaGenerada.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;LBOX1_VistaGenerada.Name" xml:space="preserve">
+    <value>LBOX1_VistaGenerada</value>
+  </data>
+  <data name="&gt;&gt;LBOX1_VistaGenerada.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LBOX1_VistaGenerada.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LBOX1_VistaGenerada.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="BT2_CerrarApp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1025, 615</value>
+  </data>
+  <data name="BT2_CerrarApp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>211, 63</value>
+  </data>
+  <data name="BT2_CerrarApp.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="BT2_CerrarApp.Text" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="&gt;&gt;BT2_CerrarApp.Name" xml:space="preserve">
+    <value>BT2_CerrarApp</value>
+  </data>
+  <data name="&gt;&gt;BT2_CerrarApp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BT2_CerrarApp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BT2_CerrarApp.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>es</value>
-  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>28, 55</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1264, 681</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 36pt</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>14, 13, 14, 13</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>1280, 720</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Generador de Progreción Geométrica</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>GenProGeo</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
