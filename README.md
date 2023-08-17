@@ -12,16 +12,19 @@ Vista del programa:
 https://github.com/JoseTorres022/generador-pro-geo/blob/master/GENERADTOR-PRO-GEO.png
 
 En este programa se usan los siguientes controles:
-> Tres etiquetas (_labels_)
-<sub>1. Etiqueta: Primer número (LB1_PrimerNumero)</sub>
-<sub>2. Etiqueta: Radio Común o Razón (LB2_RadioComun)</sub>
-<sub>3. Etiqueta: Número de terminos (LB3_NoTerminos)</sub>
-> Tres cajas de textos (_TextBox_)
-<sub>1. Caja de texto: Primer número (TB1_PrimerNumero)</sub>
-<sub>2. Caja de texto: Radio Común (TB2_RadioComun)</sub>
-<sub>3. Caja de texto: Número de terminos (TB3_NoTerminos)</sub>
-> Dos botónes (_Button_)
-<sub>1. Botón: Cacular datos (BT1_CalcDatos)</sub>
-<sub>1. Botón: Salir (BT2_CerrarApp)</sub>
-> Una caja de lista (_ListBox_)
-<sub>Caja de lista: Mostrara la sucesión geométrica (LBOX1_VistaGenerada)</sub>
+Tres etiquetas (_labels_)
+1. Etiqueta: Primer número (LB1_PrimerNumero)
+2. Etiqueta: Radio Común o Razón (LB2_RadioComun)
+3. Etiqueta: Número de terminos (LB3_NoTerminos)
+
+Tres cajas de textos (_TextBox_)
+1. Caja de texto: Primer número (TB1_PrimerNumero)
+2. Caja de texto: Radio Común (TB2_RadioComun)
+3. Caja de texto: Número de terminos (TB3_NoTerminos)
+
+Dos botónes (_Button_)
+1. Botón: Cacular datos (BT1_CalcDatos)
+2. Botón: Salir (BT2_CerrarApp)
+
+Una caja de lista (_ListBox_)
+Caja de lista: Mostrara la sucesión geométrica (LBOX1_VistaGenerada)
