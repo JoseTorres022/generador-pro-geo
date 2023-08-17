@@ -1,4 +1,4 @@
-# Geometric Progression Ganeration
+# Geometric Progression Generator
 Este pequeño programa en Visual Basic, Generador de Progresión Geométrica (_Geometric Progression Generator_), es un programa que genera una sucesión de números y los muestra en un control (_ListBox_).
 La progresión geométrica es una sucesión en la que cada término se obtiene multiplicando al anterior por una cantidad fija **"r"**, llamada razón (_Common Ratio_).
 La razón **"r"** o razón (_Common Ratio_), puede ser un negativo, un entero, una fracción o cualquier otro número pero nunca cero.
