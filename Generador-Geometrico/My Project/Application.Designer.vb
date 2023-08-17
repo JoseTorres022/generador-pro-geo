@@ -32,7 +32,8 @@ Namespace My
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Generador_Geometrico.Form1
+            Me.MainForm = Global.Generador_Geometrico.GenProGeo
+
         End Sub
     End Class
 End Namespace

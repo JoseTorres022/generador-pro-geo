@@ -1,0 +1,15 @@
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\obj\Debug\Generador-Geometrico.vbproj.AssemblyReference.cache
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\obj\Debug\Generador_Geometrico.GenProGeo.resources
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\obj\Debug\Generador_Geometrico.Resources.resources
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\obj\Debug\Generador_Geometrico.GenProGeo.es.resources
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\obj\Debug\Generador-Geometrico.vbproj.GenerateResource.cache
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\obj\Debug\Generador-Geometrico.vbproj.CoreCompileInputs.cache
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\bin\Debug\Generador-Geometrico.exe.config
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\bin\Debug\Generador-Geometrico.exe
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\bin\Debug\Generador-Geometrico.pdb
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\bin\Debug\Generador-Geometrico.xml
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\bin\Debug\es\Generador-Geometrico.resources.dll
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\obj\Debug\es\Generador-Geometrico.resources.dll
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\obj\Debug\Generador-Geometrico.exe
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\obj\Debug\Generador-Geometrico.xml
+D:\Proyectos\CSharp\Generacion-de-Progresion-Geometrica\Generador-Geometrico\obj\Debug\Generador-Geometrico.pdb
