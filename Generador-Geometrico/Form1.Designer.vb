@@ -27,9 +27,9 @@ Partial Class GenProGeo
         Me.LB2_RadioComun = New System.Windows.Forms.Label()
         Me.LB3_NoTerminos = New System.Windows.Forms.Label()
         Me.TB1_PrimerNumero = New System.Windows.Forms.TextBox()
-        Me.TB_RadioComun = New System.Windows.Forms.TextBox()
+        Me.TB2_RadioComun = New System.Windows.Forms.TextBox()
         Me.TB3_NoTerminos = New System.Windows.Forms.TextBox()
-        Me.BT_CalcDatos = New System.Windows.Forms.Button()
+        Me.BT1_CalcDatos = New System.Windows.Forms.Button()
         Me.LBOX1_VistaGenerada = New System.Windows.Forms.ListBox()
         Me.BT2_CerrarApp = New System.Windows.Forms.Button()
         Me.SuspendLayout()
@@ -54,21 +54,21 @@ Partial Class GenProGeo
         resources.ApplyResources(Me.TB1_PrimerNumero, "TB1_PrimerNumero")
         Me.TB1_PrimerNumero.Name = "TB1_PrimerNumero"
         '
-        'TB_RadioComun
+        'TB2_RadioComun
         '
-        resources.ApplyResources(Me.TB_RadioComun, "TB_RadioComun")
-        Me.TB_RadioComun.Name = "TB_RadioComun"
+        resources.ApplyResources(Me.TB2_RadioComun, "TB2_RadioComun")
+        Me.TB2_RadioComun.Name = "TB2_RadioComun"
         '
         'TB3_NoTerminos
         '
         resources.ApplyResources(Me.TB3_NoTerminos, "TB3_NoTerminos")
         Me.TB3_NoTerminos.Name = "TB3_NoTerminos"
         '
-        'BT_CalcDatos
+        'BT1_CalcDatos
         '
-        resources.ApplyResources(Me.BT_CalcDatos, "BT_CalcDatos")
-        Me.BT_CalcDatos.Name = "BT_CalcDatos"
-        Me.BT_CalcDatos.UseVisualStyleBackColor = True
+        resources.ApplyResources(Me.BT1_CalcDatos, "BT1_CalcDatos")
+        Me.BT1_CalcDatos.Name = "BT1_CalcDatos"
+        Me.BT1_CalcDatos.UseVisualStyleBackColor = True
         '
         'LBOX1_VistaGenerada
         '
@@ -88,9 +88,9 @@ Partial Class GenProGeo
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.Controls.Add(Me.BT2_CerrarApp)
         Me.Controls.Add(Me.LBOX1_VistaGenerada)
-        Me.Controls.Add(Me.BT_CalcDatos)
+        Me.Controls.Add(Me.BT1_CalcDatos)
         Me.Controls.Add(Me.TB3_NoTerminos)
-        Me.Controls.Add(Me.TB_RadioComun)
+        Me.Controls.Add(Me.TB2_RadioComun)
         Me.Controls.Add(Me.TB1_PrimerNumero)
         Me.Controls.Add(Me.LB3_NoTerminos)
         Me.Controls.Add(Me.LB2_RadioComun)
@@ -109,9 +109,9 @@ Partial Class GenProGeo
     Friend WithEvents LB2_RadioComun As Label
     Friend WithEvents LB3_NoTerminos As Label
     Friend WithEvents TB1_PrimerNumero As TextBox
-    Friend WithEvents TB_RadioComun As TextBox
+    Friend WithEvents TB2_RadioComun As TextBox
     Friend WithEvents TB3_NoTerminos As TextBox
-    Friend WithEvents BT_CalcDatos As Button
+    Friend WithEvents BT1_CalcDatos As Button
     Friend WithEvents LBOX1_VistaGenerada As ListBox
     Friend WithEvents BT2_CerrarApp As Button
 End Class

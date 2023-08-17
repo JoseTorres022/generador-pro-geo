@@ -1,11 +1,11 @@
 ﻿Public Class GenProGeo
-    Private Sub BT_CalcDatos_Click(sender As Object, e As EventArgs) Handles BT_CalcDatos.Click
+    Private Sub BT_CalcDatos_Click(sender As Object, e As EventArgs) Handles BT1_CalcDatos.Click
         Dim x, n, num As Integer
         Dim r As Single
 
         'Datos que vendran de los TEXTBOXES'
         x = TB1_PrimerNumero.Text
-        r = TB_RadioComun.Text
+        r = TB2_RadioComun.Text
         num = TB3_NoTerminos.Text
 
         'Datos que se mostraran en el LISTBOX'

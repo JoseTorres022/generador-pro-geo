@@ -225,25 +225,25 @@
   <data name="&gt;&gt;TB1_PrimerNumero.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="TB_RadioComun.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="TB2_RadioComun.Location" type="System.Drawing.Point, System.Drawing">
     <value>378, 195</value>
   </data>
-  <data name="TB_RadioComun.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="TB2_RadioComun.Size" type="System.Drawing.Size, System.Drawing">
     <value>143, 62</value>
   </data>
-  <data name="TB_RadioComun.TabIndex" type="System.Int32, mscorlib">
+  <data name="TB2_RadioComun.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;TB_RadioComun.Name" xml:space="preserve">
-    <value>TB_RadioComun</value>
+  <data name="&gt;&gt;TB2_RadioComun.Name" xml:space="preserve">
+    <value>TB2_RadioComun</value>
   </data>
-  <data name="&gt;&gt;TB_RadioComun.Type" xml:space="preserve">
+  <data name="&gt;&gt;TB2_RadioComun.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;TB_RadioComun.Parent" xml:space="preserve">
+  <data name="&gt;&gt;TB2_RadioComun.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;TB_RadioComun.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;TB2_RadioComun.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
   <data name="TB3_NoTerminos.Location" type="System.Drawing.Point, System.Drawing">
@@ -267,28 +267,28 @@
   <data name="&gt;&gt;TB3_NoTerminos.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="BT_CalcDatos.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="BT1_CalcDatos.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 519</value>
   </data>
-  <data name="BT_CalcDatos.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="BT1_CalcDatos.Size" type="System.Drawing.Size, System.Drawing">
     <value>509, 90</value>
   </data>
-  <data name="BT_CalcDatos.TabIndex" type="System.Int32, mscorlib">
+  <data name="BT1_CalcDatos.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
   </data>
-  <data name="BT_CalcDatos.Text" xml:space="preserve">
+  <data name="BT1_CalcDatos.Text" xml:space="preserve">
     <value>CALCULAR DATOS</value>
   </data>
-  <data name="&gt;&gt;BT_CalcDatos.Name" xml:space="preserve">
-    <value>BT_CalcDatos</value>
+  <data name="&gt;&gt;BT1_CalcDatos.Name" xml:space="preserve">
+    <value>BT1_CalcDatos</value>
   </data>
-  <data name="&gt;&gt;BT_CalcDatos.Type" xml:space="preserve">
+  <data name="&gt;&gt;BT1_CalcDatos.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;BT_CalcDatos.Parent" xml:space="preserve">
+  <data name="&gt;&gt;BT1_CalcDatos.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;BT_CalcDatos.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;BT1_CalcDatos.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
   <data name="LBOX1_VistaGenerada.ItemHeight" type="System.Int32, mscorlib">
