@@ -9,7 +9,7 @@ En Visual Basic, se uso la estructura de datos **Do...Loop Until** para generar 
 Para mostrar los datos calculados, se necesita del control _ListBox_, usando el metódo **Items**. La sintaxis es **LBOX1_VistaGenerada.Items.Add (n)**, donde **n** puede ser cualquier variable/número.
 
 Vista del programa:
-https://github.com/JoseTorres022/generador-pro-geo/blob/master/GENERADTOR-PRO-GEO.png
+![Image Text](https://github.com/JoseTorres022/generador-pro-geo/blob/master/GENERADTOR-PRO-GEO.png)
 
 En este programa se usan los siguientes controles:
 Tres etiquetas (_labels_)
